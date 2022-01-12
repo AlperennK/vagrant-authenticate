@@ -1,0 +1,2 @@
+# vagrant-authenticate
+vagrant authenticate
